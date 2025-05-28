@@ -5,4 +5,4 @@ Project written in C/C++ to read css files and parse it content and then perform
 2. MyString.h are simple class implementing string(string.h was forbidden to use)
 3. Input.h for parsing file content
 4. Commands.h implements all commands
-5. 5. AISD.cpp main file
+5. AISD.cpp main file
